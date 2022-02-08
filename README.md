@@ -14,7 +14,7 @@ Swift 5.0 | Xcode12.4
 ![muscle1](https://user-images.githubusercontent.com/98800328/152943543-e6694bbb-e040-4194-b6bc-d9c61b3b70d0.png)
 
 ### 使用フレームワーク
-- uikit
+- UIKit
 - storyboard
 
 ### 機能
